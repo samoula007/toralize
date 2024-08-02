@@ -1,3 +1,6 @@
+# About
+A C-based implementation of a socks4 Tor proxy designed to handle command-line requests, encapsulated within a Docker container.
+
 # Usage
 - Pass to the toralize script a command you want to run through the tor proxy
 - e.g:
