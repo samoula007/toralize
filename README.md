@@ -1,7 +1,7 @@
 # Usage
 - Pass to the toralize script a command you want to run through the tor proxy
 - e.g:
-  - ./path/to/script/toralize </command>/ </command args>/
+  - ./path/to/script/toralize command args
 
 
 # Steps to run the project
